@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.huaweicentral.com%2Fdownload-the-latest-whatsapp-app%2F&psig=AOvVaw0mjFEQmaQ-FDKwJvfPqQSq&ust=1590668928313000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNij8tWF1OkCFQAAAAAdAAAAABAD)
+![alt text](https://www.huaweicentral.com/wp-content/uploads/2019/09/WhatsApp-Logo.jpg)
 # Whatsapp_Group_Chat_Analyser
 The project started with the idea to apply the skills gained in text analytics to something we use in our daily life.
 
